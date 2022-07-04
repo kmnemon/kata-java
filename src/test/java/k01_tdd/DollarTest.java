@@ -1,4 +1,4 @@
-package x01_tdd;
+package k01_tdd;
 
 public class testMultipicaiton {
     Dollar five = new Dollar(5);
